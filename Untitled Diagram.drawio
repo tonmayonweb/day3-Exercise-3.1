@@ -1,11 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T03:19:48.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="x1LQo4mgZySseuDXQ86i" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T04:26:08.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="44KkzaUIIv8RCaODU_z0" version="16.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="596" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1528" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="gu1a5yL78-9tHtEIzf40-1" value="&lt;h4&gt;LOVE CALCULATOR&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="-320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gu1a5yL78-9tHtEIzf40-3" target="gu1a5yL78-9tHtEIzf40-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="-240" />
+              <mxPoint x="300" y="-240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gu1a5yL78-9tHtEIzf40-3" target="gu1a5yL78-9tHtEIzf40-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gu1a5yL78-9tHtEIzf40-3" target="gu1a5yL78-9tHtEIzf40-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-3" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="-230" width="330" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gu1a5yL78-9tHtEIzf40-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="-20.000000000000227" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-5" value="Kanye West" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;labelBackgroundColor=default;spacingTop=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="-255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gu1a5yL78-9tHtEIzf40-7" target="gu1a5yL78-9tHtEIzf40-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="-108" />
+              <mxPoint x="300" y="-108" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-7" value="Kim Kardashian" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;labelBackgroundColor=default;spacingTop=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="-255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=27;endSize=6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="143" y="-160" as="sourcePoint" />
+            <mxPoint x="283" y="-160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413" y="-160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-16" value="TRUE LOVE COUNTER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gu1a5yL78-9tHtEIzf40-15">
+          <mxGeometry x="-0.7143" y="-2" relative="1" as="geometry">
+            <mxPoint x="13" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-20" value="(T=0 R=1 U=2 E=2)=5&lt;br&gt;(L=1 O=0 V=0 E=2)=3&lt;br&gt;&lt;br&gt;53%" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="195" y="10" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-21" value="STRING CONCATINATION" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="-195" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gu1a5yL78-9tHtEIzf40-24" value="USE&amp;nbsp; count() function" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="-70" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
